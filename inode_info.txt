@@ -1,0 +1,8 @@
+  File: final.txt
+  Size: 6         	Blocks: 8          IO Block: 4096   regular file
+Device: fc02h/64514d	Inode: 305090      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/   user1)   Gid: ( 1002/   user1)
+Access: 2026-11-25 09:08:14.953229862 +0300
+Modify: 2026-11-25 09:08:14.953229862 +0300
+Change: 2026-11-25 09:08:43.442043320 +0300
+ Birth: 2026-11-25 09:08:14.953229862 +0300
